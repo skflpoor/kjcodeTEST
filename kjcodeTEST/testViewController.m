@@ -25,6 +25,11 @@
     return self;
 }
 
+- (void)test
+{
+  //kwonhk test
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
