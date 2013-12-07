@@ -21,6 +21,13 @@
     
     NSLog(@"TEST");
     NSLog(@"Eom");
+    NSLog(@"YONGSUK");
+}
+
+- (void)viewWillAppear:(BOOL)animated
+{
+    NSLog(@" ");
+    [super viewWillAppear:animated];
 }
 
 - (void)didReceiveMemoryWarning

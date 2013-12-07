@@ -1,18 +1,18 @@
 //
-//  testViewController.m
+//  DunkeyViewController.m
 //  kjcodeTEST
 //
-//  Created by 高 成洙 on 2013/12/07.
-//  Copyright (c) 2013年 Ko_Seong_soo. All rights reserved.
+//  Created by Dunkey on 2013. 12. 7..
+//  Copyright (c) 2013년 Ko_Seong_soo. All rights reserved.
 //
 
-#import "testViewController.h"
+#import "DunkeyViewController.h"
 
-@interface testViewController ()
+@interface DunkeyViewController ()
 
 @end
 
-@implementation testViewController
+@implementation DunkeyViewController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -21,11 +21,6 @@
         // Custom initialization
     }
     return self;
-}
-
-- (void)test
-{
-  //kwonhk test
 }
 
 - (void)viewDidLoad
