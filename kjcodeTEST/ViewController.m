@@ -23,10 +23,13 @@
     
     [self printLabel];
     
+    NSLog(@"Eom");
+    NSLog(@"YONGSUK");
 }
 
 - (void)viewWillAppear:(BOOL)animated
 {
+    NSLog(@" ");
     [super viewWillAppear:animated];
 }
 
@@ -34,6 +37,10 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    
+    NSLog(@"Woonet commit");
+    NSLog(@"Woonet commit222");
+
 }
 
 

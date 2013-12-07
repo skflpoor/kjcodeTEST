@@ -19,8 +19,15 @@
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Custom initialization
+    } else {
+        // test leejh
     }
     return self;
+}
+
+- (void)test
+{
+  //kwonhk test
 }
 
 - (void)viewDidLoad
