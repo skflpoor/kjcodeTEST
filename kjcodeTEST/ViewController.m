@@ -20,10 +20,13 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"TEST");
+    NSLog(@"Eom");
+    NSLog(@"YONGSUK");
 }
 
 - (void)viewWillAppear:(BOOL)animated
 {
+    NSLog(@" ");
     [super viewWillAppear:animated];
 }
 
