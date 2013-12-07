@@ -20,7 +20,16 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"TEST");
+<<<<<<< HEAD
     NSLog(@"test 2 park");
+=======
+    NSLog(@"YONGSUK");
+}
+
+- (void)viewWillAppear:(BOOL)animated
+{
+    [super viewWillAppear:animated];
+>>>>>>> dce1bdb25df8ec7f03cbf66abca3fd313243188b
 }
 
 - (void)didReceiveMemoryWarning
