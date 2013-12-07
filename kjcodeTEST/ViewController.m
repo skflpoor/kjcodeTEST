@@ -20,7 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"TEST");
-<<<<<<< HEAD
+<<<<<<< HEAD    deiuwfg8o7igilbj
 
 
     NSLog(@"YONGSUK * park");
