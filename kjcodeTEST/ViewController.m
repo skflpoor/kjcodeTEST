@@ -9,7 +9,7 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+- (void)printLabel;
 @end
 
 @implementation ViewController
@@ -20,12 +20,18 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"TEST");
+<<<<<<< HEAD
 <<<<<<< HEAD    deiuwfg8o7igilbj
 
 
-    NSLog(@"YONGSUK * parkdasdasdasdasd");
+    NSLog(@"YONGSUK * parkdasdasdasdadsfsdfjksfglkdsb;kfhds;ilji;lnlisd");
 
 =======
+=======
+    
+    [self printLabel];
+    
+>>>>>>> 22a90309a6f3b35cd024c7154ccb9dfebd4ebbd0
     NSLog(@"Eom");
     NSLog(@"YONGSUK");
 }
@@ -42,6 +48,11 @@
     NSLog(@"Woonet commit");
     NSLog(@"Woonet commit222");
 
+}
+
+
+- (void)printLabel {
+    kjcodeLabel.text = @"kjcodekjcodekjcode";
 }
 
 @end
