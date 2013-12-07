@@ -15,6 +15,8 @@
     // Override point for customization after application launch.
     return YES;
 	NSLog(@"Dunkey!!!");
+	NSLog(@"Dunkey!!!");
+	
 }
 							
 - (void)applicationWillResignActive:(UIApplication *)application
