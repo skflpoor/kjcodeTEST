@@ -24,6 +24,7 @@
 		75C8092C1852F7630042D3ED /* testViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 75C8092B1852F7630042D3ED /* testViewController.m */; };
 		75C8092F1853029C0042D3ED /* kjViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 75C8092E1853029C0042D3ED /* kjViewController.m */; };
 		75C80932185302AF0042D3ED /* abcViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 75C80931185302AF0042D3ED /* abcViewController.m */; };
+		C02F75EF185303B600F4C71E /* DunkeyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C02F75EE185303B600F4C71E /* DunkeyViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,8 @@
 		75C8092E1853029C0042D3ED /* kjViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = kjViewController.m; sourceTree = "<group>"; };
 		75C80930185302AF0042D3ED /* abcViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = abcViewController.h; sourceTree = "<group>"; };
 		75C80931185302AF0042D3ED /* abcViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = abcViewController.m; sourceTree = "<group>"; };
+		C02F75ED185303B600F4C71E /* DunkeyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DunkeyViewController.h; sourceTree = "<group>"; };
+		C02F75EE185303B600F4C71E /* DunkeyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DunkeyViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +137,8 @@
 				75C8092E1853029C0042D3ED /* kjViewController.m */,
 				75C80930185302AF0042D3ED /* abcViewController.h */,
 				75C80931185302AF0042D3ED /* abcViewController.m */,
+				C02F75ED185303B600F4C71E /* DunkeyViewController.h */,
+				C02F75EE185303B600F4C71E /* DunkeyViewController.m */,
 			);
 			path = kjcodeTEST;
 			sourceTree = "<group>";
@@ -268,6 +273,7 @@
 				75C809061852F1B50042D3ED /* AppDelegate.m in Sources */,
 				75C8092C1852F7630042D3ED /* testViewController.m in Sources */,
 				75C8092F1853029C0042D3ED /* kjViewController.m in Sources */,
+				C02F75EF185303B600F4C71E /* DunkeyViewController.m in Sources */,
 				75C809021852F1B50042D3ED /* main.m in Sources */,
 				75C80932185302AF0042D3ED /* abcViewController.m in Sources */,
 			);

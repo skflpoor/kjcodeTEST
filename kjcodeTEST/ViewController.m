@@ -20,6 +20,12 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"TEST");
+    NSLog(@"YONGSUK");
+}
+
+- (void)viewWillAppear:(BOOL)animated
+{
+    [super viewWillAppear:animated];
 }
 
 - (void)didReceiveMemoryWarning
