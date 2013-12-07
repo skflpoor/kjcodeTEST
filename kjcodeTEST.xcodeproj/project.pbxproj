@@ -21,6 +21,7 @@
 		75C809171852F1B60042D3ED /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 75C808F91852F1B50042D3ED /* UIKit.framework */; };
 		75C8091F1852F1B60042D3ED /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 75C8091D1852F1B60042D3ED /* InfoPlist.strings */; };
 		75C809211852F1B60042D3ED /* kjcodeTESTTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 75C809201852F1B60042D3ED /* kjcodeTESTTests.m */; };
+		75C8092C1852F7630042D3ED /* testViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 75C8092B1852F7630042D3ED /* testViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		75C8091C1852F1B60042D3ED /* kjcodeTESTTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "kjcodeTESTTests-Info.plist"; sourceTree = "<group>"; };
 		75C8091E1852F1B60042D3ED /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		75C809201852F1B60042D3ED /* kjcodeTESTTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = kjcodeTESTTests.m; sourceTree = "<group>"; };
+		75C8092A1852F7630042D3ED /* testViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testViewController.h; sourceTree = "<group>"; };
+		75C8092B1852F7630042D3ED /* testViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +122,8 @@
 				75C8090B1852F1B50042D3ED /* ViewController.m */,
 				75C8090D1852F1B50042D3ED /* Images.xcassets */,
 				75C808FC1852F1B50042D3ED /* Supporting Files */,
+				75C8092A1852F7630042D3ED /* testViewController.h */,
+				75C8092B1852F7630042D3ED /* testViewController.m */,
 			);
 			path = kjcodeTEST;
 			sourceTree = "<group>";
@@ -251,6 +256,7 @@
 			files = (
 				75C8090C1852F1B50042D3ED /* ViewController.m in Sources */,
 				75C809061852F1B50042D3ED /* AppDelegate.m in Sources */,
+				75C8092C1852F7630042D3ED /* testViewController.m in Sources */,
 				75C809021852F1B50042D3ED /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
