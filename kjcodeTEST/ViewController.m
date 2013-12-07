@@ -9,7 +9,7 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+- (void)printLabel;
 @end
 
 @implementation ViewController
@@ -20,12 +20,20 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"TEST");
+    
+    [self printLabel];
+    
 }
 
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+
+- (void)printLabel {
+    kjcodeLabel.text = @"kjcodekjcodekjcode";
 }
 
 @end
