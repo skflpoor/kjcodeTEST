@@ -23,7 +23,7 @@
 <<<<<<< HEAD    deiuwfg8o7igilbj
 
 
-    NSLog(@"YONGSUK * park");
+    NSLog(@"YONGSUK * parkdasdasdasdasd");
 
 =======
     NSLog(@"Eom");
